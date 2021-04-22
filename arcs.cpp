@@ -47,6 +47,7 @@ void doCase(int n, int h, int H) {
                         vect.push_back('0');
                         vect.push_back('0');
                         row.push_back(vect);
+                        
                   }
                   else {
                         vector<char> vect;
